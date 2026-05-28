@@ -10,13 +10,13 @@ When a drop of water (which naturally conducts a little bit of electricity) touc
 ## Project Images
 
 ### Schematic
-![Schematic](schematic.png)
+![Schematic](schematic.png.png)
 
 ### Board Layout
-![PCB Layout](pcb-layout.png)
+![PCB Layout](pcb-layout.png.png)
 
 ### 3D Render
-![3D Render](3d-render.png)
+![3D Render](3d-render.png.png)
 
 ## Parts List
 * Q1: 2N7000 (N-Channel MOSFET)
